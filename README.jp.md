@@ -13,7 +13,7 @@ Read this in other languages: [English](README.md)
 
 "はじめに" を参照して、自身のQnABotを起動してください
 
-**New features in 2.6.0** [Kendra Fallback and MultiLanguage Support](#new-features)
+**New features in 2.6.0** [Kendra Fallback and MultiLanguage Support](#新機能)
 
 ## 前提条件
 
